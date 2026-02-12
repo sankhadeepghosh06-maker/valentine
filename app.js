@@ -3,7 +3,7 @@
    - true  => Page 1 unlocks instantly
    - false => Real countdown lock
 ========================= */
-const BYPASS_TIMER = true;
+const BYPASS_TIMER = false;
 
 /* =========================
    CONFIG (properties kept same)
@@ -580,6 +580,7 @@ function render() {
 }
 
 render();
+
 
 
 
