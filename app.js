@@ -479,7 +479,7 @@ function page8Flowers() {
           i have irl. I hope these<br>
           carry a little bit<br>
           of my warmth to you,<br>
-          my little rose :rose:
+          my little rose 🌹
         </div>
       </div>
 
@@ -580,5 +580,6 @@ function render() {
 }
 
 render();
+
 
 
