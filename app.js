@@ -434,7 +434,7 @@ function page7Letter() {
 
         <div class="p7-title">
           HAPPY<br>
-          NEWYEAR,<br>
+          VALENTINE'S DAY,<br>
           MY LOVE.
         </div>
 
@@ -445,7 +445,7 @@ function page7Letter() {
 
         <div class="p7-sign">
           With all my heart,<br>
-          <span class="p7-love">love</span>
+          <span class="p7-love">San</span>
         </div>
       </div>
 
@@ -472,14 +472,14 @@ function page8Flowers() {
     <div class="p8-ref">
       <div class="p8-left">
         <div class="p8-text">
-          Hey love,<br>
+          Hey sweetheart,<br>
           I'm sending you this little<br>
-          virtual bouquet. I wish I<br>
-          could hand you real<br>
-          flowers myself, but until I<br>
-          get to see you again,<br>
-          these carry a little bit of<br>
-          my warmth to you.
+          virtual bouquet. I wish you<br>
+          love this along with the flowers<br>
+          i have irl. I hope these<br>
+          carry a little bit<br>
+          of my warmth to you,<br>
+          my little rose :rose:
         </div>
       </div>
 
@@ -580,4 +580,5 @@ function render() {
 }
 
 render();
+
 
